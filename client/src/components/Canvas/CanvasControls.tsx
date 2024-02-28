@@ -48,7 +48,7 @@ const CanvasControls: FunctionComponent<IPropsCanvasController> = ({
   const closeCanvas = () => {
     setPopupMessage([
       `마우스로 그림을 그려보세요!`,
-      `지우개 버튼은 전체 그림을 지우고, 저장 버튼은 업로드하고 덮어쓸 것이며, 닫기 버튼은 이 모드를 종료합니다!`,
+      `지우기 버튼은 전체 그림을 지우고, 저장 버튼은 업로드하고 덮어쓸 것이며, 종료 버튼은 이 모드를 종료합니다!`,
       `즐겁게 이용하세요.`,
     ]);
 
