@@ -1,4 +1,4 @@
-![alt text](https://github.com/happy-smilely/portfolio/blob/master/design/folio.gif?raw=true)
+![alt text](https://github.com/happy-smilely/learning-nodejs-react/blob/master/design/folio.gif?raw=true)
 
 ## Table of contents
 
