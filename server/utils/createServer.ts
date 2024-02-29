@@ -8,7 +8,7 @@ const app = express();
 const cors = require("cors");
 
 //
-const whiteListDev = ["localhost:3000", "http://localhost:3000", "http://127.0.0.1:3000"];
+const whiteListDev = ["localhost:3000", "http://localhost:3000", "http://127.0.0.1:3000", "http://ec2-43-203-214-201.ap-northeast-2.compute.amazonaws.com:3000", "ec2-43-203-214-201.ap-northeast-2.compute.amazonaws.com:3000"];
 
 // Main server and middleware / parsers
 export const createServer = () => {
