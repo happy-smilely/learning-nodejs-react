@@ -1,4 +1,6 @@
-[AWS Web Server](http://ec2-43-203-214-201.ap-northeast-2.compute.amazonaws.com:3000/)
+## AWS EC2 
+
+[AWS EC2 서버에 배포해둔 링크입니다.](http://ec2-43-202-1-123.ap-northeast-2.compute.amazonaws.com:3000/)
 
 ![alt text](https://github.com/happy-smilely/learning-nodejs-react/blob/main/design/folio.gif?raw=true)
 
