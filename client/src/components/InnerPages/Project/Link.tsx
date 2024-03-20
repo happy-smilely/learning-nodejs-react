@@ -9,7 +9,7 @@ const PrismicLink: FunctionComponent<ILinkProps> = ({ data , themeState }) => {
   return (
     <LinkContainer>
       <PaleText>Career Management</PaleText>
-      <LinkUrl themeState={themeState} href={url} target={target}>· Github Pages 로 만든 경력관리 페이지 이동</LinkUrl>
+      <LinkUrl themeState={themeState} href={url} target={target}>· Notion 경력관리 페이지 이동</LinkUrl>
     </LinkContainer>
   );
 };
